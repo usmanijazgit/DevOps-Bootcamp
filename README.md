@@ -4,4 +4,4 @@
 - [Course website](https://wemakedevs.org/courses/devops)
 - [Connect with me](http://kunalkushwaha.com)
 
-Hi - Forked this GitHub Repo
+Forked this GitHub Repo
